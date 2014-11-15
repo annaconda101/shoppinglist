@@ -2,7 +2,7 @@
 var greeting = 'Hello Anna';
 
 module.exports = function () {
-  return greeting;	
+  return greeting;
 }
 
 
